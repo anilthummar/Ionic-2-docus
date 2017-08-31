@@ -1,0 +1,744 @@
+ionic docu :https://docs.google.com/spreadsheets/d/1PnWpdxLf6wDGVfW-V0_akIqIG6Hf7sTokwiPMPM3JTU/edit#gid=0
+
+
+ionic 2 tutorial links :
+
+-https://www.tutorialspoint.com/ionic/
+-https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
+-https://ionicframework.com/docs/intro/installation/#
+-https://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/
+-https://www.udemy.com/ionic-2-tutorial-course-learning-by-example-with-complete-apps/
+-http://blog.ionic.io/tag/tutorials/
+http://pointdeveloper.com/category/ionic-2/
+https://ampersandacademy.com/tutorials/ionic-framework-version-2/push-notification-using-google-firebase
+
+
+
+Html documents :
+
+http://html.com/
+http://html.com/html5/
+http://www.html-5-tutorial.com/
+https://www.tutorialspoint.com/html5/
+https://www.w3schools.com/html/html5_intro.asp
+https://www.w3schools.com/html/
+https://www.tutorialspoint.com/html/
+https://www.javatpoint.com/html-tutorial
+
+
+CSS3 tutorial:
+https://www.w3schools.com/css/css3_intro.asp
+https://www.tutorialspoint.com/css/css3_tutorial.htm
+https://www.tutorialspoint.com/css/
+http://www.css3-tutorial.net/
+http://www.html5andcss3.org/css3history.php
+https://www.tutorialrepublic.com/css-tutorial/
+
+
+
+JavaScript Tutorial:
+
+https://www.w3schools.com/js/
+https://www.tutorialspoint.com/javascript/
+https://www.javatpoint.com/javascript-tutorial
+https://javascript.info/
+https://www.sololearn.com/Course/JavaScript/
+
+Angular Tutorial:
+
+https://www.tutorialspoint.com/angular2/
+http://www.angular2.com/
+https://angular.io/tutorial
+https://www.w3schools.com/angular/
+https://www.sitepoint.com/angular-2-tutorial/
+https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
+https://www.barbarianmeetscoding.com/blog/2016/03/25/getting-started-with-angular-2-step-by-step-1-your-first-component/
+
+
+
+***********************************************************************
+Build IOS app ON Mac with simulator and Device 
+
+
+IOS Deploy Process on MAC:
+
+https://github.com/phonegap/ios-deploy/issues/109
+https://stackoverflow.com/questions/33812254/installing-cordova-cli-and-ionic
+https://medium.com/@leetheguy/testing-an-ionic-1-app-on-ios-and-android-emulators-and-devices-b88a44cf5a3
+
+************************************************************************
+
+
+
+
+
+
+Tools :https://www.jetbrains.com/products.html?fromMenu
+
+Demo Sample : http://mobidevlog.com/category/ionic-2/
+            : http://mobidevlog.com/category/ionic-2/
+
+
+
+Querying : http://mobidevlog.com/create-querying-contacts-ionic-2/
+Charts : http://mobidevlog.com/ionic-2-charts/
+
+*******************************************************************************
+directly-connect-mysql-database-to-ionic-2:
+
+https://forum.ionicframework.com/t/how-to-directly-connect-mysql-database-to-ionic-2/93898
+https://softwareengineering.stackexchange.com/questions/171203/what-are-the-differences-between-server-side-and-client-side-programming
+https://stackoverflow.com/questions/39036249/connect-database-in-angular-2
+
+*******************************************************************************
+All Components :https://ionicframework.com/docs/native/
+
+
+
+Create your Ionic apps visually= http://ionic.io/products/creator
+                                 https://creator.ionic.io/app/designer/2c264086543e
+
+
+https://ionicframework.com/docs/native/
+
+Navigation one page to other page := 
+=http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/
+=http://pointdeveloper.com/ionic-2-beginner-navigating-between-pages/
+=http://stackoverflow.com/questions/38830338/two-levels-of-items-in-an-array-list-in-ionic-2
+
+
+Label == 
+https://ionicframework.com/docs/api/components/label/Label/
+
+ionic-loading-controller 
+=http://stackoverflow.com/questions/41454020/when-to-dismiss-the-ionic-loading-controller-while-waiting-for-an-observable?noredirect=1&lq=1
+
+
+Toast in IONIC 2 :=
+=https://ionicframework.com/docs/api/components/toast/ToastController/
+Input Text == https://ionicframework.com/docs/api/components/input/Input/
+Tutorials == http://blog.ionic.io/tag/tutorials/
+
+List item with WEB API =https://apppresser.com/tag/ionic-2/
+                       
+List item with Local API file = http://www.dotnetcurry.com/javascript/1355/ionic-2-tutorial-with-angular-typescript
+                              =https://github.com/dotnetcurry/ionic-tutorial/tree/master/src
+
+
+
+splash-screen- ===  http://www.codingandclimbing.co.uk/blog/ionic-2-fix-splash-screen-white-screen-issue
+
+
+GeoLocation == https://stackoverflow.com/questions/42993045/ionic-geolocation-plugin-error-no-provider-for-geolocation/42993113
+              =https://ionicframework.com/docs/native/geolocation/
+              =https://ionicframework.com/docs/native/#Add_Plugins_to_Your_App_Module
+
+
+Notification :
+
+https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59
+https://console.firebase.google.com/project/ionicnotification-e796f/notification
+https://www.youtube.com/watch?v=7yXtzhqT1uk
+https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59
+https://github.com/aggarwalankush/ionic-push-base
+https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59
+https://console.firebase.google.com/project/ionicnotification-e796f/notification
+https://devdactic.com/ionic-2-push-notifications/
+https://medium.com/@ankushaggarwal/push-notifications-in-ionic-2-658461108c59
+https://ampersandacademy.com/tutorials/ionic-framework-version-2/push-notification-using-google-firebase
+
+
+
+
+
+
+ Google Map 
+         =https://ampersandacademy.com/tutorials/ionic-framework-version-2/google-map-api-working-example
+        =https://ionicframework.com/docs/native/google-maps/
+       =https://ionicframework.com/docs/native/google-maps/
+       =https://ionicframework.com/docs/native/#Add_Plugins_to_Your_App_Module        
+       =https://ionicframework.com/docs/native/#Add_Plugins_to_Your_App_Module
+
+       https://www.joshmorony.com/creating-an-advanced-google-maps-component-in-ionic-2/
+       https://www.joshmorony.com/integrating-native-google-maps-into-an-ionic-2-application/
+       https://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/
+
+
+
+	   
+Storage :  https://ionicframework.com/docs/storage/
+https://ionicframework.com/docs/native/sqlite/
+https://github.com/litehelpers/Cordova-sqlite-storage
+
+
+
+Video View :=
+https://forum.ionicframework.com/t/ionic-2-and-html5-video-tag/78030
+https://ionicframework.com/docs/native/video-player/
+
+
+Dial Number:=
+https://ionicframework.com/docs/native/call-number/
+http://pointdeveloper.com/ionic-2-beginner-dial-a-number-in-ionic-2-apps/
+https://www.techiediaries.com/ionic-cordova-phone-call/
+
+
+Send Message :=
+https://ionicframework.com/docs/native/sms/
+http://pointdeveloper.com/ionic-2-beginner-send-sms-ionic-2-cordova-sms-plugin/
+https://learnionic2.com/2017/02/14/how-to-send-an-sms-with-ionic-2/
+http://pointdeveloper.com/ionic-2-beginner-send-sms-ionic-2-cordova-sms-plugin/
+
+
+Device Information:=
+http://pointdeveloper.com/get-device-information-ionic-3/
+	   
+
+
+http://www.codeexpertz.com/blog/tag/ionic2
+
+Redit WEb api Json Example = https://www.youtube.com/watch?v=ilM8YorL_jI&t=272s
+                           =https://github.com/bradtraversy/ionreddit
+			  == https://tableless.com.br/criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/
+                           == http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/
+                           =http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/
+			Gitgub =https://github.com/Gajotres/Ionic2RESTHttpExample
+                            =http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/
+
+                            =http://pointdeveloper.com/ionic-2-make-post-request-json-api/
+
+
+
+https://forum.ionicframework.com/t/ionic-2-http-post-response-data/55694/7
+
+
+
+Ionic2 UI Template App :
+http://csform.com/documentation-for-ionic-2-ui-template-app/
+
+
+
+
+
+
+DeepLinker Socialsharing-and-deeplinking :
+
+https://ionicframework.com/docs/2.0.0/api/navigation/DeepLinker/
+
+https://ionicthemes.com/tutorials/about/ionic2-app-with-socialsharing-and-deeplinking
+http://blog.ionic.io/deeplinking-in-ionic-apps/
+https://www.joshmorony.com/link-to-pages-via-urls-with-deep-linking-in-ionic/ 
+
+
+
+
+
+Slides Page =
+https://github.com/ionic-team/ionic-preview-app/tree/master/src/pages/slides
+http://ionicframework.com/docs/components/#slides
+http://ionicframework.com/docs/api/components/slides/Slides/
+
+
+Custom Expandable Header =
+https://www.joshmorony.com/creating-a-custom-expandable-header-component-for-ionic-2/
+
+
+
+
+Access Photo From gallery and Camera In IONC 2 
+
+https://ampersandacademy.com/tutorials/ionic-framework-version-2/no-provider-device-problem-ionic-2-framework-native-plugin-version-3-x
+https://codesundar.com/ionic2-tutorial/access-photo-gallery-using-ionic-2/
+https://codesundar.com/ionic2-tutorial/access-camera-using-ionic-2/
+https://code.tutsplus.com/tutorials/how-to-create-a-camera-app-with-ionic-2--cms-28205
+https://codesundar.com/ionic2-tutorial/access-camera-using-ionic-2/
+http://devfanaticblog.com/working-with-camera-in-ionic-2-and-ionic-native/
+
+
+
+Get All Contact from Mobile :
+
+https://ionicframework.com/docs/native/contacts/
+http://anandparmar.me/2017/01/12/fetching-contacts-ionic-2/
+
+
+Ionic and RTL:
+http://blog.ionic.io/ionic-and-rtl/
+
+
+
+Crop Image= 
+https://ionicframework.com/docs/native/crop/
+https://github.com/jeduan/cordova-plugin-crop/blob/master/www/crop.js
+
+
+
+Parallax Animation=
+https://www.joshmorony.com/high-performance-parallax-animation-in-ionic-2/
+
+
+
+
+Chat in Ionic2 =
+https://github.com/codesundar/ionic2-chat-with-firebase/tree/master/src
+https://codesundar.com/product/ionic-chat-app-firebase/
+https://www.joshmorony.com/create-a-real-time-chat-app-with-ionic-and-firebase/
+
+
+
+
+Network Information:=
+https://ampersandacademy.com/tutorials/ionic-framework-version-2/ionic-2-framework-network-information-plugin-connectd-disconnected
+
+
+
+Flash Light :=
+https://learnionic2.com/2017/03/28/create-flashlight-application-ionic-2/
+http://tphangout.com/ionic-native-and-a-flashlight/
+
+
+
+**************************************************************************************************************
+https://simpleweb.co.uk/building-a-mobile-app-ionic-vs-react-vs-native/
+
+**************************************************************************************************************
+
+
+
+
+******************************how-to-run-ionic-2-app-windows-app-on-windows-phone**********************************************
+
+
+https://forum.ionicframework.com/t/build-windows-app-on-ionic-with-visual-studio/100856
+http://blog.ionic.io/visual-studio-tools-for-apache-cordova/?_ga=2.146032692.1208756380.1500265114-378869664.1489036204
+
+how-to-run-ionic-2-app-windows-app-on-windows-phone-using-command-prompt =  https://forum.ionicframework.com/t/how-to-run-ionic-2-app-windows-app-on-windows-phone-using-command-prompt/88454
+
+windows-10-sdk === https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
+
+https://www.quora.com/How-do-I-to-build-app-IOS-by-ionic-framework-on-windows
+
+https://channel9.msdn.com/Blogs/One-Dev-Minute/Ionic-apps-on-Windows-10
+*********************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+************************************************************************************************
+to Call Http API =set up extension for access-control-allow-origin-header-is-present-on-the-requested
+
+http://stackoverflow.com/questions/20035101/no-access-control-allow-origin-header-is-present-on-the-requested-resource
+************************************************************************************************
+
+
+
+Create page from command prompt = https://www.thepolyglotdeveloper.com/2015/12/navigate-between-pages-in-an-ionic-2-android-and-ios-app/
+horizontal-scroll-in-ionic-2 =  http://stackoverflow.com/questions/35959258/horizontal-scroll-in-ionic-2
+
+
+login-ionic-2 == https://devdactic.com/login-ionic-2/
+
+Windows Platform Guide == https://cordova.apache.org/docs/en/dev/guide/platforms/win8/index.html#installing-the-requirements
+What is MacinCloud? ==  http://www.macincloud.com/
+
+
+
+
+
+Angular + ngFor + Loop ==  https://codyburleson.com/display/blog/2016/04/28/Index+of+Item+Within+Angular+ngFor+Loop
+                         = http://blog.angular-university.io/angular-2-ngfor/
+
+
+
+
+
+ionic-2-framework-tutorial == https://www.tutorialsplane.com/tag/ionic-2-framework-tutorial/
+
+
+
+
+
+*******************APP CLONE ************************************
+
+Restaurant == https://market.ionic.io/themes/ionic-2-restaurant
+== https://market.ionic.io/themes/ionsunset-v2
+
+
+ecommerce-ui = https://market.ionic.io/themes/ionic-2-ecommerce-ui
+
+
+Ecommerce === https://codecanyon.net/item/ionic-2-ecommerce-app-template/19565005
+
+
+Ionic Profile Header = https://market.ionic.io/plugins/ionic-2-ion-profile-header
+
+
+******************************************************************
+
+
+
+
+
+*****************************ANGULAR 2 *************************************************
+
+http://www.codeexpertz.com/blog/angularjs/quick-view-angular-2-introduction-angularjs-2
+
+
+
+******************************************************************************
+
+
+
+
+http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/
+http://mcgivery.com/understanding-ionic-2-navigation-navcontroller/
+
+
+
+ Delphi XE5 to XE10 
+ 
+ 
+ https://www.embarcadero.com/products/delphi
+
+
+
+
+
+
+*************** IONIC 2 ****************************
+
+https://ionicframework.com/docs/native/
+IONIC2 Native  --->http://ionicframework.com/docs/v2/native/
+
+http://www.codeexpertz.com/blog/tag/ionic2
+
+blog.ionic  --->  http://blog.ionic.io/what-is-a-progressive-web-app/
+
+
+https://scotch.io/tutorials/build-a-mobile-app-with-angular-2-and-ionic-2
+
+
+typescriptlang  --->https://www.typescriptlang.org/#download-links
+
+
+**************************************************************************
+
+
+ 
+
+
+
+
+
+
+ Ionic is built on top of AngularJS and Apache Cordova you will need to have basic knowledge about these technologies. 
+ You also need to be familiar with 
+
+
+Create online design:https://creator.ionic.io/app/designer/ad2c4ae6bb6e
+
+
+Create and test angular online :https://codepen.io/ionic/pen/jLylA
+				:https://www.google.co.in/
+
+Angular with js example in detail :http://mcgivery.com/100-ionic-framework-resources/
+
+
+ 
+ 
+ HTML5= https://www.w3schools.com/html/default.asp
+ CSS3 =https://www.w3schools.com/css/default.asp
+ JavaScript =https://www.w3schools.com/js/default.asp
+ 
+
+ 
+ AngularJS 1&2 =https://www.w3schools.com/angular/default.asp
+ Ionic 1&2:=https://ionicframework.com/docs/v2/intro/tutorial/
+
+	Angular Video Tutorial :https://www.youtube.com/watch?v=nO1ROKMjPqI&list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz
+	Angular code = http://techcbt.com/
+	Angular sample code = http://tutorials.techcbt.com/
+
+
+
+
+
+
+
+
+
+
+
+
+IN VS 2015 :Install-Package IonicVS2015
+
+
+https://www.nuget.org/packages/IonicVS2015/
+https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic
+
+NetProxy-S
+
+Tools Require and use for Ionic app:
+
+http://ionicframework.com/docs/guide/installation.html
+
+
+https://www.tutorialspoint.com/ionic/ionic_environment_setup.htm
+
+
+
+https://www.linkedin.com/pulse/ionic-installation-windows-vijay-balkrishna-konduskar
+
+1.http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-2/
+2.http://www.gajotres.net/building-a-native-mobile-app-with-cordova-and-ionic/
+   Download :
+	
+	
+	
+	
+	
+	1. Install Apache Ant   (apache: - http://ant.apache.org/bindownload.cgi)
+	2. Install nodeJS       (https://nodejs.org/en/)
+	3. Install Ionic && Cordova    (From Command prompt)    npm install -g ionic@latest
+	4. Install Java JDK 
+	5. Install Android SDK
+	6. Create, Test, and Delete a demo Ionic application
+	7. Let’s create our own application
+	
+	
+	
+	Installed IONIC and Corvdova : npm install -g ionic
+	
+	npm - is the package manager for the Node JavaScript platform
+	
+Get All Setup File from ::  http://gonehybrid.com/build-your-first-mobile-app-with-the-ionic-framework-part-2/
+
+
+
+Create App :
+		- ionic start HelloAndroid blank
+		-cd HelloAndroid
+		-ionic platform add android
+		
+		
+		
+		
+		>ionic build android
+
+
+		
+		
+		
+		
+IONIC WITH VISUAL STUDIO :
+
+
+Enterprise #1: HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+Enterprise #2: 2XNFG-KFHR8-QV3CP-3W6HT-683CH
+
+
+*****************************************************
+Starting with video to installed ionic cordova in VS (https://www.youtube.com/watch?v=3wMzrBgQqDM)
+
+https://blogs.msdn.microsoft.com/visualstudio/2016/03/30/build-ionic-apps-in-minutes-with-vs-code/
+
+
+
+Create first app in VS with IONIC :
+			1.http://taco.visualstudio.com/en-us/docs/tutorial-ionic2/
+
+
+
+
+
+
+
+
+
+
+
+******************************************************
+
+Testing App: http://ionicframework.com/docs/guide/testing.html
+
+	
+Installation Process: https://www.linkedin.com/pulse/ionic-installation-windows-vijay-balkrishna-konduskar
+
+http://binarylies.ghost.io/cordova-ionic-in-visual-studio/
+
+	
+	
+https://www.sitepoint.com/quick-tip-installing-the-ionic-framework-for-html5-apps/
+	
+https://ionicframework.com/getting-started/
+	
+	
+	
+	
+	
+	
+	
+https://www.npmjs.com/package/ionic	
+	
+
+http://ionicframework.com/docs/overview/#download
+http://blog.ionic.io/tag/tutorials/
+http://blog.ionic.io/working-with-data-services-vs-nav-params/
+
+
+https://www.tutorialspoint.com/ionic/ionic_overview.htm
+http://blog.ionic.io/where-does-the-ionic-framework-fit-in/?_ga=1.249717702.1549527984.1482901584
+
+
+
+Ionic Package:
+			http://code.ionicframework.com/#
+			
+			
+			
+http://www.w3schools.com/angular/angular_ref_directives.asp
+			
+			
+Following are the most important features of Ionic:
+				AngularJS
+				HTML
+				CSS
+				JavaScript
+				
+				
+				
+				
+				
+https://nodejs.org/en/download/		
+
+Node js=
+1.set path in environment variable =C:\Program Files\nodejs\node_modules\npm\bin      
+2.create .js file.
+
+
+
+3. set path for .js file in Node.js Command prompt = C:\Users\Android\Desktop\ionic demo>node HelloWorld .js
+4. Out put =Hello World!
+
+
+
+
+ <!-- color: blue; -->
+    font-family: courier;
+    font-size: 260%;
+	border: 1px solid powderblue;
+    padding: 30px;
+	 margin: 50px;
+	 
+	 
+*********************************************
+
+
+Microsoft Windows [Version 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\Android>e:
+
+E:\>cd "Ionic Data"
+
+E:\Ionic Data>cd Test
+
+E:\Ionic Data\Test>cd ionic-weather-master
+
+E:\Ionic Data\Test\ionic-weather-master>ionic platform add android
+Adding android project...
+
+Creating Cordova project for the Android platform:
+
+        Path: platforms\android
+        Package: com.ionicframework.ionicweather2906150
+        Name: ionic_weather2
+        Activity: MainActivity
+        Android target: android-25
+
+Subproject Path: CordovaLib
+
+Android project created with cordova-android@6.1.2
+
+Running command: "C:\Program Files\nodejs\node.exe" "E:\Ionic Data\Test\ionic-weather-master\hooks\after_prepare\010_add_platform_class.js" "E:\Ionic Data\Test\ionic-weather-master"
+
+add to body class: platform-android
+
+Discovered plugin "cordova-plugin-device" in config.xml. Adding it to the project
+
+
+Fetching plugin "cordova-plugin-device@~1.1.3" via npm
+
+Installing "cordova-plugin-device" for android
+
+
+Discovered plugin "cordova-plugin-console" in config.xml. Adding it to the project
+
+Fetching plugin "cordova-plugin-console@~1.0.4" via npm
+
+Installing "cordova-plugin-console" for android
+
+
+Discovered plugin "cordova-plugin-whitelist" in config.xml. Adding it to the project
+
+Fetching plugin "cordova-plugin-whitelist@~1.3.0" via npm
+
+
+Installing "cordova-plugin-whitelist" for android
+
+
+
+               This plugin is only applicable for versions of cordova-android greater than 4.0. If you have a previous platform version, you do *not* need this plugin since the whitelist will be built in.
+
+
+
+Discovered plugin "cordova-plugin-splashscreen" in config.xml. Adding it to the project
+
+
+Fetching plugin "cordova-plugin-splashscreen@~4.0.0" via npm
+
+
+Installing "cordova-plugin-splashscreen" for android
+
+
+Discovered plugin "cordova-plugin-statusbar" in config.xml. Adding it to the project
+
+Fetching plugin "cordova-plugin-statusbar@~2.2.0" via npm
+
+Installing "cordova-plugin-statusbar" for android
+
+Discovered plugin "ionic-plugin-keyboard" in config.xml. Adding it to the project
+
+
+Fetching plugin "ionic-plugin-keyboard@~2.2.1" via npm
+
+
+Installing "ionic-plugin-keyboard" for android
+
+
+
+E:\Ionic Data\Test\ionic-weather-master>ionic build android
+Running command: "C:\Program Files\nodejs\node.exe" "E:\Ionic Data\Test\ionic-weather-master\hooks\after_prepare\010_add_platform_class.js" "E:\Ionic Data\Test\ionic-weather-master"
+
+
+add to body class: platform-android
+
+ANDROID_HOME=E:\LatestAndroidVersion\android-sdk
+
+JAVA_HOME=C:\Program Files\java\jdk1.8.0_91
+
+Error: Could not find gradle wrapper within Android SDK. Might need to update your Android SDK.
+Looked here: E:\LatestAndroidVersion\android-sdk\tools\templates\gradle\wrapper
+
+
+
+E:\Ionic Data\Test\ionic-weather-master>ionic build android
+
+
+		
